@@ -3,6 +3,14 @@
 ## Descripción
 Este proyecto consiste en una aplicación web llamada Cotizador, desarrollada con JSP y Apache Tomcat. Permite ingresar los datos de un cliente y un producto, validar la información, calcular descuentos e IGV y mostrar el total a pagar.
 
+## Objetivos
+- Desarrollar una aplicación web para calcular cotizaciones.
+- Validar los datos ingresados por el usuario.
+- Aplicar operaciones matemáticas mediante la clase Math de Java.
+- Utilizar métodos de la clase Estring para procesar y validar textos.
+- Mostrar resultadis y mensajes de error de manera amigable.
+- Utilizar GitHub para almacenar y compartir el proyecto.
+
 ## Tecnologías utilizadas
 - Java
 - JSP
@@ -36,3 +44,6 @@ https://github.com/FVenusTC/pa2-poo-cotizador
 
 ## Video de exposición
 [Coloca aquí el enlace del video de YouTube cuando esté publicado]
+
+## Conclusiones
+El desarrollo del Cotizador nos permitió aplicar conceptos de programación orientada a objetos y desarrollo web mediante JSP y Java. También nos permitió practicar la validación de datos, el uso de operaciones matemáticas, el manejo de errores y el trabjo en conjunto mediante GitHub.
