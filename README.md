@@ -58,7 +58,7 @@ Las capturas de pantalla del funcionamiento y del código se guardarán en la ca
 https://github.com/FVenusTC/pa2-poo-cotizador
 
 ## Video de exposición
-(https://www.youtube.com/watch?v=LCKZCPPShik)
+https://www.youtube.com/watch?v=LCKZCPPShik
 
 ## Conclusiones
 El desarrollo del Cotizador nos permitió aplicar conceptos de programación orientada a objetos y desarrollo web mediante JSP y Java. También nos permitió practicar la validación de datos, el uso de operaciones matemáticas, el manejo de errores y el trabjo en conjunto mediante GitHub.
