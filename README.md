@@ -10,6 +10,12 @@ Este proyecto consiste en una aplicación web llamada Cotizador, desarrollada co
 - Utilizar métodos de la clase Estring para procesar y validar textos.
 - Mostrar resultadis y mensajes de error de manera amigable.
 - Utilizar GitHub para almacenar y compartir el proyecto.
+  
+## Descripcion de la solución
+
+Para resolver el problema planteado, hemos desarrollado una aplicacion web compuesta por dos archivos principales como son:
+- index.jsp: contine el formulario donde el usuario ingresa el nombre, correo electrónico, producto, precio unitario, cantidad y porcentaje de descuento.
+- resultado.jsp: recibe los datos del formulario, valida la información y realiza los cálculos de la cotización.
 
 ## Tecnologías utilizadas
 - Java
@@ -31,6 +37,15 @@ Este proyecto consiste en una aplicación web llamada Cotizador, desarrollada co
 - Cálculo del IGV.
 - Presentación del total a pagar.
 - Mensajes de error cuando los datos son incorrectos.
+
+## Instrucciones para ejecutar la Aplicación
+
+- Instalar y configurar Java y Apache Tomcat 11.
+- Colocar los archivos del proyecto dentro de la estructura de una aplicacioón web compatible con Tomcat.
+- Iniciar el servidor Apache Tomcat.
+- Abrir el navegador web.
+- Acceder a la dirección local correspondiente a la aplicación, por ejemplo http://localhost:8080/Cotizador/.
+- Completar el formulario y enviar los datos para visualizar el resultado.
 
 ## Evidencias
 Las capturas de pantalla del funcionamiento y del código se guardarán en la carpeta `pruebas`.
